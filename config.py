@@ -25,7 +25,7 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/mrtosumemon/DOREAMON
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/INCRICIBLE_NETWORK")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/INCRICIBLE_MUSIC_SUPPORT")
 SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/INCRICIBLE")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
@@ -79,7 +79,7 @@ START_IMG_URL = getenv("START_IMG_URL", "https://te.legra.ph/file/e1803cf8021bc6
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://te.legra.ph/file/987c3d0db44f6dd58fb2e.jpg",
+    "https://telegra.ph/file/56a9ab0c1c6eaea77c2f9.jpg",
 )
 
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
