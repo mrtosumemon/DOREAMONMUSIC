@@ -50,7 +50,7 @@ class Userbot(Client):
             try:
                 await self.one.join_chat("Incricible")
                 await self.one.join_chat("Incricible_Network")
-                await self.one.join_chat("INCRICIBLE_MUSIC_SUPPORT")
+                await self.one.join_chat("The_Incricible")
             except:
                 pass
             assistants.append(1)
